@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'PollyRoundedRegular';
+	src: url('./PollyRounded-Regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('./PollyRounded-Regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('./PollyRounded-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('./PollyRounded-Regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('./PollyRounded-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'PollyRoundedLight';
+	src: url('./PollyRounded-Light.eot'); /* IE 9 Compatibility Mode */
+	src: url('./PollyRounded-Light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('./PollyRounded-Light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('./PollyRounded-Light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('./PollyRounded-Light.ttf') format('truetype'), /* Safari, Android, iOS */
+}

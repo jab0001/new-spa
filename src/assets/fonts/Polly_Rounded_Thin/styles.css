@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'PollyRoundedThin';
+	src: url('./PollyRounded-Thin.eot'); /* IE 9 Compatibility Mode */
+	src: url('./PollyRounded-Thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('./PollyRounded-Thin.woff2') format('woff2'), /* Super Modern Browsers */
+		url('./PollyRounded-Thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('./PollyRounded-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+}
